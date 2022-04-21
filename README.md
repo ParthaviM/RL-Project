@@ -1,2 +1,2 @@
 # RL-Project
-Codes for the algorithm discussed in the report
+Codes for the algorithms discussed in the report
